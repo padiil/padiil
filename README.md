@@ -20,7 +20,7 @@ Visual Studio Code, Html 5, Css 3, TailwindCss, Javascript, Linux, Git, Github
 
 **let's connect 🚀**
 - Instagram : https://www.instagram.com/faadilg/
-- Linkedin : https://www.linkedin.com/in/fadhilgani?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Linkedin : https://www.linkedin.com/in/fadhilgani/
 
 <!--
 **kudill/kudill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
