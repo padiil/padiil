@@ -15,7 +15,7 @@ Visual Studio Code, Html 5, Css 3, TailwindCss, Javascript, Linux, Git, Github
 - 🌱 I’m currently learning Frontend Web Development
 - 🤔 I’m looking for new friends who learn together with me
 - 📫 How to reach me: @faadilg (instagram), Fadhil Gani (Linkedin)
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 <!-- ⚡ Fun fact: ...-->
 
 **let's connect 🚀**
