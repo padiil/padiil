@@ -10,9 +10,9 @@ I really like exploring new technology and like joining communities that are rel
 Frontend Web Development
 
 **Tools:** </br>
-Visual Studio Code, Html 5, Css 3, TailwindCss, Javascript, Linux, Git, Github
+Visual Studio Code, Html 5, Css 3, TailwindCss, Javascript, Linux, Git, Github, Vue
 
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Frontend and Backend Web Development
 - 🤔 I’m looking for new friends who learn together with me
 - 📫 How to reach me: @faadilg (instagram), Fadhil Gani (Linkedin)
 - 😄 Pronouns: He/Him
